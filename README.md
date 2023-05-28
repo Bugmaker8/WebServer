@@ -18,8 +18,7 @@ Linux下C++轻量级Web服务器,巩固linux网络编程
 目录
 -----
 
-| [框架](#框架) | [Demo演示](#Demo演示) | [压力测试](#压力测试) | [个性化运行](#个性化运行) | 
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [框架](#框架)  | [压力测试](#压力测试)  | [个性化运行](#个性化运行)  | 
 
 
 
@@ -27,23 +26,6 @@ Linux下C++轻量级Web服务器,巩固linux网络编程
 -------------
 <div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0j1atq5hj30g60lm0w4.jpg" height="765"/> </div>
 
-Demo演示
-----------
-> * 注册演示
-
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0iz0dkleg30m80bxjyj.gif" height="429"/> </div>
-
-> * 登录演示
-
-<div align=center><img src="https://github.com/qinguoyi/TinyWebServer/blob/master/root/login.gif" height="429"/> </div>
-
-> * 请求图片文件演示(6M)
-
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0juxrnlfg30go07x4qr.gif" height="429"/> </div>
-
-> * 请求视频文件演示(39M)
-
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0jtxie8ng30go07xb2b.gif" height="429"/> </div>
 
 
 压力测试
